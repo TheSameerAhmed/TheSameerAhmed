@@ -6,7 +6,7 @@
 - Would love to collabrate with other developers, feel free to reach out ✌️
 - Enjoy learning and talking about operating sysytems 📟  
 
-### Languages and Tools
+### Languages and Tools 📜
 <img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/c.svg">
 <img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/csharp.svg">
 <img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/cplusplus.svg">
@@ -23,7 +23,7 @@
 
 <br />
 
-### Connect with me:
+### Connect with me 👊
 [<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="TheSameerAhmed | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg"/>][email]
 
