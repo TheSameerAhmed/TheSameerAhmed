@@ -8,18 +8,19 @@
 - Enjoy learning and discussing about operating sysytems 📟  
 
 ### Languages and Tools 📜
-<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/c.svg">
-<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/csharp.svg">
-<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/cplusplus.svg">
-<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/java.svg">
-<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/python.svg">
-<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/html5.svg">
-<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/mysql.svg">
-<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/androidstudio.svg">
-<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unity.svg">
-<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/linux.svg">
-<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/visualstudio.svg">
-<img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/git.svg">
+<img align="left" alt="TheSameerAhmed | C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/c.svg">
+<img align="left" alt="TheSameerAhmed | C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/csharp.svg">
+<img align="left" alt="TheSameerAhmed | C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/cplusplus.svg">
+<img align="left" alt="TheSameerAhmed | Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/java.svg">
+<img align="left" alt="TheSameerAhmed | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/python.svg">
+<img align="left" alt="TheSameerAhmed | HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/html5.svg">
+<img align="left" alt="TheSameerAhmed | MYSQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/mysql.svg">
+<img align="left" alt="TheSameerAhmed | Android Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/androidstudio.svg">
+<img align="left" alt="TheSameerAhmed | Unity" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unity.svg">
+<img align="left" alt="TheSameerAhmed | Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/linux.svg">
+<img align="left" alt="TheSameerAhmed | Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/visualstudio.svg">
+<img align="left" alt="TheSameerAhmed | Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/git.svg">
+<img align="left" alt="TheSameerAhmed | Kali Linux" width="22px" src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
 
 
 <br />
