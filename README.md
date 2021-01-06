@@ -1,10 +1,11 @@
 # Sameer's GitHub
 
-## I'm a graduate student and teaching assistant currently based in Vancouver, Canada. 🎓
+## I'm a Cybersecurity Graduate Student and Teaching Assistant currently based in Vancouver, Canada. 🎓
 
 - Currently learning new software tools to further enhance my repetoire 📂
+- Also currently learning various Cybersecurity concepts and tools (Kali Linux) 💂‍
 - Would love to collabrate with other developers, feel free to reach out ✌️
-- Enjoy learning and talking about operating sysytems 📟  
+- Enjoy learning and discussing about operating sysytems 📟  
 
 ### Languages and Tools 📜
 <img align="left" alt="TheSameerAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/c.svg">
