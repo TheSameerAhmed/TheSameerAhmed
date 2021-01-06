@@ -20,7 +20,7 @@
 <img align="left" alt="TheSameerAhmed | Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/linux.svg">
 <img align="left" alt="TheSameerAhmed | Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/visualstudio.svg">
 <img align="left" alt="TheSameerAhmed | Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/git.svg">
-<img align="left" alt="TheSameerAhmed | Kali Linux" width="22px" src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
+<img align="left" alt="TheSameerAhmed | Kali Linux" width="22px" src="https://img.icons8.com/color/144/000000/kali-linux.png"/>
 
 
 <br />
